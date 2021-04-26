@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "id": "6044d5fbc195eca0691d4ad3",
+            "fname": "Davidi",
+            "lname": "Shohat",
+            "dateCreated": "03/04/2021",
+            "sessionTimeout": 100000
+        },
+        {
+            "id": "6044d5fbc195eca0691d4ad6",
+            "fname": "Tyler",
+            "lname": "The Creator",
+            "dateCreated": "03/04/2021",
+            "sessionTimeout": 100000
+        },
+        {
+            "id": "60460d67de5ff64e40c77fb6",
+            "fname": "Later",
+            "lname": "Askjdhjk",
+            "dateCreated": "03/08/2021",
+            "sessionTimeout": 7380000
+        },
+        {
+            "id": "60460fa61c95ee0eb8611ef0",
+            "fname": "Kanye",
+            "lname": "West",
+            "dateCreated": "03/08/2021",
+            "sessionTimeout": 74
+        },
+        {
+            "id": "60460fbe5a77951b702173a8",
+            "fname": "Kid",
+            "lname": "Cudi",
+            "dateCreated": "03/09/2021",
+            "sessionTimeout": 123
+        },
+        {
+            "id": "60460fbe5a77951b702173a9",
+            "fname": "asd",
+            "lname": "asd",
+            "dateCreated": "03/15/2021",
+            "sessionTimeout": 123
+        },
+        {
+            "id": "60460fbe5a77951b702173a9",
+            "fname": "asd",
+            "lname": "asd",
+            "dateCreated": "03/15/2021",
+            "sessionTimeout": 123
+        },
+        {
+            "id": "60460fbe5a77951b702173a9",
+            "fname": "asd",
+            "lname": "asd",
+            "dateCreated": "15/03/2021",
+            "sessionTimeout": 123
+        }
+    ]
+}

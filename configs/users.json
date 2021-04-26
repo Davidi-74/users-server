@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "6044d5fbc195eca0691d4ad3",
+            "fname": "Davidi",
+            "lname": "Shohat",
+            "dateCreated": "3/11/2021",
+            "sessionTimeout": 3600000
+        },
+        {
+            "id": "6044d5fbc195eca0691d4ad6",
+            "fname": "Tyler",
+            "lname": "The Creator",
+            "dateCreated": "3/15/2021",
+            "sessionTimeout": 300000
+        },
+        {
+            "id": "60474cf4c74d7406bce8a23e",
+            "fname": "Kid",
+            "lname": "Cudi",
+            "dateCreated": "3/15/2021",
+            "sessionTimeout": 3600000
+        },
+        {
+            "id": "6049e896801139267c56489d",
+            "fname": "YBN",
+            "lname": "Cordae",
+            "dateCreated": "3/15/2021",
+            "sessionTimeout": 3600000
+        }
+    ]
+}

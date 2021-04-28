@@ -13,5 +13,5 @@ app.use(bodyParser.urlencoded({ extended: true })).use(bodyParser.json());
 
 app.use('/users', usersController)
 
-app.listen(8001);
+app.listen(process.env.PORT || 8001);
 console.log("Server is up!");

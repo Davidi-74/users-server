@@ -3,10 +3,10 @@ const router = express.Router();
 const userBL = require('../models/userBL')
 
 // get all
-router.route('/').get(async (req, resp) => {
-    let users = await userBL.getAll();
-    return resp.json(users);
-})
+// router.route('/').get(async (req, resp) => {
+//     let users = await userBL.getAll();
+//     return resp.json(users);
+// })
 
 // get by ID 
 router.route('/getById/:id').get(async (req, resp) => {
